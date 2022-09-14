@@ -24,10 +24,11 @@
 				<div class="row justify-content-center">
 					<div class="col-md-6 col-lg-5">
 						<div class="login-wrap p-4 p-md-5">
-							<div class="icon d-flex align-items-center justify-content-center">
-								<span class="fa fa-user-o"></span>
+							<div class=" d-flex align-items-center justify-content-center">
+							<img src="../project/p_img/LOgo1.png" width="200" class="rounded" alt="light ">
+								<!-- <span class="fa fa-user-o"></span> -->
 							</div>
-							<h3 class="text-center mb-4">Have an account?</h3>
+							<!-- <h3 class="text-center mb-4">Have an account?</h3> -->
 							<form action="#" class="login-form">
 								<div class="form-group">
 									<input type="text" name="m_user" class="form-control rounded-left" placeholder="Username" required>

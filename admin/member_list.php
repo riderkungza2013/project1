@@ -55,6 +55,12 @@ echo '<table id="example1" class="table table-bordered table-striped">';
        echo "<td class='hidden-xs' align='center'>";
         if ($st == 'admin') {
           echo "ผู้ดูแลระบบ"."<br> <span class='label label-success'>(Admin)</span>";
+
+        }elseif($st == 'employee') {
+          echo "พนักงาน"."<br> <span class='label label-danger'>(Employee)</span>";
+          
+        
+          
         }elseif($st == 'member') {
           echo "สมาชิก"."<br> <span class='label label-info'>(Member)</span>";
         }
@@ -66,4 +72,3 @@ echo '<table id="example1" class="table table-bordered table-striped">';
   } 
 echo "</table>";
 mysqli_close($con);
-?>

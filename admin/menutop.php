@@ -21,7 +21,7 @@
          <li class="dropdown user user-menu">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 <img src="../m_img/<?php echo $row['m_img'];?>" width="25" height="25" class="img-circle user-image" alt="User Image">
-                <span class="hidden-xs">สวัสดีคุณ Admin</span>
+                <span class="hidden-xs">ยินดีต้อนรับ Admin</span>
               </a>
               <ul class="dropdown-menu">
                 <!-- User image -->

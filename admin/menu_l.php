@@ -20,7 +20,8 @@
       </li>
       
            <li class="active">
-        <a href=""><i class="fa fa-cogs"></i> <span>จัดการข้อมูลระบบ</span>
+
+        <a href=""><img src="../img2/employee1_1.png" width="30" class="rounded" alt="light "></i> <span>จัดการข้อมูลระบบ</span>
         <span class="pull-right-container">
           <i class="fa fa-angle-down pull-right"></i>
         </span>
@@ -28,27 +29,27 @@
     </li>
     
       <li>
-        <a href="member.php"><i class="glyphicon glyphicon-record"></i>
+        <a href="member.php"><img src="../p_img/user2_1.png" width="30" class="rounded" alt="light ">
           <span> จัดการสมาชิก</span>
         </a>
       </li>
       <li>
-        <a href="type.php"><i class="glyphicon glyphicon-record"></i>
+        <a href="type.php"><img src="../p_img/p1.png" width="30" class="rounded" alt="light ">
           <span> จัดการประเภท </span>
         </a>
       </li>
       <li>
-        <a href="product.php"><i class="glyphicon glyphicon-record"></i>
+        <a href="product.php"><img src="../p_img/dugs1.png" width="30" class="rounded" alt="light ">
           <span> จัดการสินค้า </span>
         </a>
       </li>
         <li>
-        <a href="member_profile.php"><i class="glyphicon glyphicon-record"></i>
+        <a href="member_profile.php"><img src="../p_img/User.png" width="30" class="rounded" alt="light ">
           <span> แก้ไขข้อมูลส่วนตัว </span>
         </a>
       </li>
            <li class="active">
-        <a href=""><i class="fa fa-cogs"></i> <span>จัดการข้อมูลรายงาน</span>
+        <a href=""><img src="../p_img/report.png" width="30" class="rounded" alt="light "></i> <span>จัดการข้อมูลรายงาน</span>
         <span class="pull-right-container">
           <i class="fa fa-angle-down pull-right"></i>
         </span>
@@ -57,7 +58,7 @@
 
       
       <li>
-        <a href="../logout.php" onclick="return confirm('คุณต้องการออกจากระบบหรือไม่ ?');"><i class="glyphicon glyphicon-off"></i>
+        <a href="../logout.php" onclick="return confirm('คุณต้องการออกจากระบบหรือไม่ ?');"><img src="../p_img/logout.png" width="30" class="rounded" alt="light ">
           <span> ออกจากระบบ</span>
         </a>
       </li>

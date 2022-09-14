@@ -29,6 +29,7 @@ $row = mysqli_fetch_array($result);
         </option>
         <option value="">เลือกข้อมูล</option>
         <option value="admin">ผู้ดูแลระบบ</option>
+        <option value="employee">พนักงาน</option>
         <option value="member">สมาชิก</option>    
       </select>
     </div>

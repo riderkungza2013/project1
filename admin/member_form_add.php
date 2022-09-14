@@ -35,6 +35,7 @@
       <select name="m_level" class="form-control" required>
         <option value="">เลือกข้อมูล</option>
         <option value="admin">ผู้ดูแลระบบ</option>
+        <option value="employee">พนักงาน</option>
         <option value="member">สมาชิก</option>   
       </select>
     </div>
